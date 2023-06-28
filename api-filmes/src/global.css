@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'League Spartan', sans-serif;
+}
+
+body {
+  background-color: #050505 ;
+  color: #ffffff;
+  padding: 2rem;
+}
+
+html ::-webkit-scrollbar {
+  width: 10px;
+}
+html ::-webkit-scrollbar-thumb {
+  border-radius: 50px;
+  background: #3A0000;
+}
+html ::-webkit-scrollbar-track {
+  background: #1b1b1b;
+}
